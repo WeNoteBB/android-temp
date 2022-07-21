@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.wenotebbi.androidtemp.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.wenotebbi.androidtemp.MyBundle
 
 class MyApplicationService {
 
